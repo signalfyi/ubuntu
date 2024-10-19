@@ -1,0 +1,7 @@
+## Dockerfile
+
+### Docker Image: ubuntu:lunar
+| Severity | Count |
+|----------|-------|
+| medium | 2 |
+| high | 4 |
